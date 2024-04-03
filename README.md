@@ -1,5 +1,5 @@
 # Matlab_code
-The experimental data are given in the files "Ch1603_experimental_data.xlsx"  and "Ch1616_experimental_data"   for validation purposes.
+The experimental data are given in the files "Ch1603_experimental_data.xlsx"  and "Ch1616_experimental_data.xlsx"   for validation purposes.
 
  1. For Ch1603 
     1. Ch1603_28_182.m:  parameter estimation for  28 to 182 days. First, run this file for Ch1603 because Ch1603_182_385.m needs some data from the output of Ch1603_28_182.m.
